@@ -3,7 +3,9 @@ Computer Architecture 01:198:211
 
 This course covers the fundamental issues in the design of modern computer systems, including the design and implementation of key hardware components such as the processor, memory, and I/O devices, and the software/hardware interface.  
 
-Topics:  C programming Data representation and computer arithmetic Assembly language programming Boolean algebra Basic digital logic design Processor design Cache design Main memory design Expected Work:  3-4 programming assignments, homework assignments, and class participation.  
+Topics:  C programming Data representation and computer arithmetic Assembly language programming Boolean algebra Basic digital logic design Processor design Cache design Main memory design 
+
+Expected Work:  3-4 programming assignments, homework assignments, and class participation.  
 
 Exams:  1-2 midterm exams and a final exam. 
 
