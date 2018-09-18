@@ -4,7 +4,7 @@
 #include "fifth.h"
 
 
-//source for matrix addiotion methods
+//source for matrix addition methods
 //https://codeforwin.org/2015/07/c-program-to-add-two-matrices.html
 
 int main(int argc, char * argv[]){
